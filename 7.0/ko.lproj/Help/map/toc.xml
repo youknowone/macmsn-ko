@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="yes"?>
+<toc projName="Messenger" language="1033" buildVersion="08.03.19.1236">
+    <node id="eac81b56-7eef-49d9-b40d-48e56cdf8017" istopic="false" title="Setup and Settings">
+        <topic id="ee805716-54ba-46a0-bde6-e5e915b13220" istopic="true" icon="Help.png">Differences between personal and corporate accounts</topic>
+    </node>
+    <node id="51a9804d-3617-4719-8c19-233c07a0dd2b" istopic="false" title="Accessibility">
+        <topic id="0d88b1b4-a9eb-4c5a-81fb-7db259b22733" istopic="true" icon="Help.png">Accessibility options</topic>
+        <topic id="9617dcb9-efac-4920-8a64-347161e9912c" istopic="true" icon="Help.png">Keyboard shortcuts for Messenger</topic>
+        <topic id="69ab054a-ba9e-4e8f-b7ae-f7f13fca2023" istopic="true" icon="Help.png">Keyboard shortcuts for emoticons</topic>
+        <topic id="fd40dd54-8bce-4356-a3d2-b509f78332ed" istopic="true" icon="Help.png">Keyboard shortcuts for the euro currency symbol</topic>
+    </node>
+    <node id="2accef1c-ed97-4885-a17d-17bf84483e9c" istopic="false" title="Adding and Managing Contacts">
+        <topic id="e2302b81-ee24-4db7-a0ca-79420f333960" istopic="true" icon="Help.png">Use Bonjour to find nearby Messenger for Mac users</topic>
+    </node>
+    <node id="920998cf-a5dc-4289-a9a6-3e4215e137ed" istopic="false" title="Send and Receive Instant Messages">
+        <topic id="0ca4f691-f066-4898-b4ad-3ffa87a333d5" istopic="true" icon="Help.png">Add an emoticon to a message</topic>
+        <topic id="5241aff3-c8eb-497c-afe1-25f7fe426ef8" istopic="true" icon="Help.png">Create your own emoticons</topic>
+        <topic id="69ab054a-ba9e-4e8f-b7ae-f7f13fca2023" istopic="true" icon="Help.png">Keyboard shortcuts for emoticons</topic>
+        <topic id="06a12d2c-d39c-4245-ab6a-5c25cef13016" istopic="true" icon="Help.png">Save and view a conversation history</topic>
+    </node>
+    <node id="7f2cb293-3c9b-4da6-98e4-ab119b1e6c6d" istopic="false" title="Setting Options">
+        <topic id="c371f92e-e3f9-40c2-976c-35abefed5a0a" istopic="true" icon="Help.png">Clear a password or user accounts</topic>
+        <topic id="0e570776-80c4-4863-a835-2d496a9970d5" istopic="true" icon="Help.png">Stop Messenger from opening automatically when I start my computer</topic>
+    </node>
+    <node id="5ce402b9-1aff-4e5f-8134-9c45ae9c0fe7" istopic="false" title="Security and Privacy">
+        <topic id="d1980883-f190-4607-bfb2-5a6fb0caa997" istopic="true" icon="Help.png">Receiving messages from unknown senders</topic>
+        <topic id="87619077-9334-4be8-b469-f83d71109ded" istopic="true" icon="Help.png">View the privacy statement</topic>
+    </node>
+</toc>
