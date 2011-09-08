@@ -1,0 +1,21 @@
+
+/* Class = "NSWindow"; title = "Instant Message"; ObjectID = "1"; */
+"1.title" = "대화";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Change instant message font settings"; ObjectID = "91"; */
+"91.ibShadowedToolTip" = "대화 글꼴 설정을 바꿉니다";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Select an emoticon"; ObjectID = "93"; */
+"93.ibShadowedToolTip" = "이모티콘";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Cancel file transfer"; ObjectID = "126"; */
+"126.ibShadowedToolTip" = "파일 전송을 취소합니다";
+
+/* Class = "NSMenuItem"; title = "Change Display Picture…"; ObjectID = "492"; */
+"492.title" = "공개 사진…";
+
+/* Class = "NSMenuItem"; title = "Change Personal Preferences"; ObjectID = "493"; */
+"493.title" = "개인 환경설정 바꾸기";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "582"; */
+"582.title" = "취소";

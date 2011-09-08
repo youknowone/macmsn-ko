@@ -1,0 +1,12 @@
+
+/* Class = "NSWindow"; title = "About #FULLAPPNAME"; ObjectID = "1"; */
+"1.title" = "#FULLAPPNAME 에 관하여";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "4"; */
+"4.title" = "확인";
+
+/* Class = "NSTextFieldCell"; title = "Version ^0 (^1)"; ObjectID = "6"; */
+"6.title" = "버전 ^0 (^1)";
+
+/* Class = "NSTextFieldCell"; title = "#FULLAPPNAME for Mac"; ObjectID = "31"; */
+"31.title" = "#FULLAPPNAME for Mac";

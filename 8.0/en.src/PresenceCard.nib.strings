@@ -1,0 +1,36 @@
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add contact to instant messenger contact list"; ObjectID = "68"; */
+"68.ibShadowedToolTip" = "Add contact to instant messenger contact list";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "69"; */
+"69.title" = "Box";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Send mail"; ObjectID = "70"; */
+"70.ibShadowedToolTip" = "Send mail";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Start a video call"; ObjectID = "73"; */
+"73.ibShadowedToolTip" = "Start a video call";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Call contact"; ObjectID = "74"; */
+"74.ibShadowedToolTip" = "Call contact";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Send an instant message"; ObjectID = "75"; */
+"75.ibShadowedToolTip" = "Send an instant message";
+
+/* Class = "NSButtonCell"; title = "Button"; ObjectID = "76"; */
+"76.title" = "Button";
+
+/* Class = "NSButtonCell"; title = "Button"; ObjectID = "77"; */
+"77.title" = "Button";
+
+/* Class = "NSButtonCell"; title = "Button"; ObjectID = "78"; */
+"78.title" = "Button";
+
+/* Class = "NSButtonCell"; title = "Button"; ObjectID = "79"; */
+"79.title" = "Button";
+
+/* Class = "NSButtonCell"; title = "Button"; ObjectID = "80"; */
+"80.title" = "Button";
+
+/* Class = "NSButtonCell"; title = "Button"; ObjectID = "81"; */
+"81.title" = "Button";

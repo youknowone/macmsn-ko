@@ -1,0 +1,15 @@
+
+/* Class = "NSWindow"; title = "About #FULLAPPNAME"; ObjectID = "1"; */
+"1.title" = "About #FULLAPPNAME";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "4"; */
+"4.title" = "OK";
+
+/* Class = "NSTextFieldCell"; title = "Version ^0 (^1)"; ObjectID = "6"; */
+"6.title" = "Version ^0 (^1)";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "8"; */
+"8.title" = "Label";
+
+/* Class = "NSTextFieldCell"; title = "#FULLAPPNAME for Mac"; ObjectID = "31"; */
+"31.title" = "#FULLAPPNAME for Mac";

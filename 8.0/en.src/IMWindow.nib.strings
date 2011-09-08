@@ -1,0 +1,21 @@
+
+/* Class = "NSWindow"; title = "Instant Message"; ObjectID = "1"; */
+"1.title" = "Instant Message";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Change instant message font settings"; ObjectID = "91"; */
+"91.ibShadowedToolTip" = "Change instant message font settings";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Select an emoticon"; ObjectID = "93"; */
+"93.ibShadowedToolTip" = "Select an emoticon";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Cancel file transfer"; ObjectID = "126"; */
+"126.ibShadowedToolTip" = "Cancel file transfer";
+
+/* Class = "NSMenuItem"; title = "Change Display Picture…"; ObjectID = "492"; */
+"492.title" = "Change Display Picture…";
+
+/* Class = "NSMenuItem"; title = "Change Personal Preferences"; ObjectID = "493"; */
+"493.title" = "Change Personal Preferences";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "582"; */
+"582.title" = "Cancel";

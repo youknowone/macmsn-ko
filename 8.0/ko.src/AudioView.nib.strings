@@ -1,0 +1,36 @@
+
+/* Class = "NSTextFieldCell"; title = "Calling..."; ObjectID = "6"; */
+"6.title" = "Calling...";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "..."; ObjectID = "7"; */
+"7.ibShadowedToolTip" = "...";
+
+/* Class = "NSTextFieldCell"; title = "On hold..."; ObjectID = "10"; */
+"10.title" = "On hold...";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Answer call"; ObjectID = "13"; */
+"13.ibShadowedToolTip" = "Answer call";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Do not answer call"; ObjectID = "15"; */
+"15.ibShadowedToolTip" = "Do not answer call";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Start the call again"; ObjectID = "17"; */
+"17.ibShadowedToolTip" = "Start the call again";
+
+/* Class = "NSButtonCell"; title = "Resume"; ObjectID = "18"; */
+"18.title" = "Resume";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Hang up"; ObjectID = "21"; */
+"21.ibShadowedToolTip" = "Hang up";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Put call on hold"; ObjectID = "25"; */
+"25.ibShadowedToolTip" = "Put call on hold";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Click to mute"; ObjectID = "27"; */
+"27.ibShadowedToolTip" = "Click to mute";
+
+/* Class = "NSTextFieldCell"; title = "Start a call..."; ObjectID = "78"; */
+"78.title" = "Start a call...";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Show keypad"; ObjectID = "80"; */
+"80.ibShadowedToolTip" = "키패드 보기";

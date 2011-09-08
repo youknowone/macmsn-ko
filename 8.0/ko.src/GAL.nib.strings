@@ -1,0 +1,18 @@
+
+/* Class = "NSTextFieldCell"; title = "Job"; ObjectID = "3"; */
+"3.title" = "Job";
+
+/* Class = "NSTextFieldCell"; title = "Work"; ObjectID = "5"; */
+"5.title" = "Work";
+
+/* Class = "NSTextFieldCell"; title = "Cell"; ObjectID = "7"; */
+"7.title" = "Cell";
+
+/* Class = "NSTextFieldCell"; title = "JobTitleField"; ObjectID = "9"; */
+"9.title" = "JobTitleField";
+
+/* Class = "NSTextFieldCell"; title = "WorkPhoneField"; ObjectID = "11"; */
+"11.title" = "WorkPhoneField";
+
+/* Class = "NSTextFieldCell"; title = "CellPhoneField"; ObjectID = "13"; */
+"13.title" = "CellPhoneField";

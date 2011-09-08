@@ -1,0 +1,48 @@
+
+/* Class = "NSWindow"; title = "Conversation History"; ObjectID = "1"; */
+"1.title" = "Conversation History";
+
+/* Class = "NSToolbarItem"; label = "Search"; ObjectID = "15"; */
+"15.label" = "Search";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Search"; ObjectID = "15"; */
+"15.paletteLabel" = "Search";
+
+/* Class = "NSTableColumn"; headerCell.title = "Date"; ObjectID = "43"; */
+"43.headerCell.title" = "Date";
+
+/* Class = "NSTableColumn"; headerCell.title = "To"; ObjectID = "44"; */
+"44.headerCell.title" = "To";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "45"; */
+"45.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "46"; */
+"46.title" = "Text Cell";
+
+/* Class = "NSToolbarItem"; label = "Delete"; ObjectID = "48"; */
+"48.label" = "Delete";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Delete"; ObjectID = "48"; */
+"48.paletteLabel" = "Delete";
+
+/* Class = "NSToolbarItem"; toolTip = "Delete the currently highlighted instant message"; ObjectID = "48"; */
+"48.toolTip" = "Delete the currently highlighted instant message";
+
+/* Class = "NSToolbarItem"; label = "Save as Web Page"; ObjectID = "50"; */
+"50.label" = "Save as Web Page";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Save as Web Page"; ObjectID = "50"; */
+"50.paletteLabel" = "Save as Web Page";
+
+/* Class = "NSToolbarItem"; toolTip = "Save the currently highlighted instant message as an HTML document"; ObjectID = "50"; */
+"50.toolTip" = "Save the currently highlighted instant message as an HTML document";
+
+/* Class = "NSTableColumn"; headerCell.title = "Size"; ObjectID = "60"; */
+"60.headerCell.title" = "Size";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "61"; */
+"61.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Check"; ObjectID = "120"; */
+"120.title" = "Check";

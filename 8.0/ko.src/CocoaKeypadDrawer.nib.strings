@@ -1,0 +1,9 @@
+
+/* Class = "NSTextFieldCell"; placeholderString = "Enter a number..."; ObjectID = "188"; */
+"188.placeholderString" = "Enter a number...";
+
+/* Class = "NSTextFieldCell"; title = "Enter a number..."; ObjectID = "188"; */
+"188.title" = "Enter a number...";
+
+/* Class = "NSButtonCell"; title = "Select a contact..."; ObjectID = "260"; */
+"260.title" = "대화 상대 선택...";

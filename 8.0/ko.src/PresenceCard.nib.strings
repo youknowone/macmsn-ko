@@ -1,0 +1,16 @@
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add contact to instant messenger contact list"; ObjectID = "68"; */
+"68.ibShadowedToolTip" = "메신저 대화상대 목록에 추가합니다";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Send mail"; ObjectID = "70"; */
+"70.ibShadowedToolTip" = "메일을 보냅니다";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Start a video call"; ObjectID = "73"; */
+"73.ibShadowedToolTip" = "화상 대화를 시작합니다.";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Call contact"; ObjectID = "74"; */
+"74.ibShadowedToolTip" = "전화 걸기";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Send an instant message"; ObjectID = "75"; */
+"75.ibShadowedToolTip" = "대화 보내기";
+

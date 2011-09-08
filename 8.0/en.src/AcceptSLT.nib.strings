@@ -1,0 +1,12 @@
+
+/* Class = "NSWindow"; title = "License Agreement"; ObjectID = "1"; */
+"1.title" = "License Agreement";
+
+/* Class = "NSTextFieldCell"; title = "#FULLAPPNAME"; ObjectID = "4"; */
+"4.title" = "#FULLAPPNAME";
+
+/* Class = "NSButtonCell"; title = "Accept"; ObjectID = "10"; */
+"10.title" = "Accept";
+
+/* Class = "NSButtonCell"; title = "Decline"; ObjectID = "12"; */
+"12.title" = "Decline";

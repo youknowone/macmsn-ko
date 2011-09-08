@@ -1,0 +1,30 @@
+
+/* Class = "NSTextFieldCell"; title = "Calling..."; ObjectID = "6"; */
+"6.title" = "Calling...";
+
+/* Class = "NSTextFieldCell"; title = "On hold..."; ObjectID = "10"; */
+"10.title" = "On hold...";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Start a video call"; ObjectID = "13"; */
+"13.ibShadowedToolTip" = "Start a video call";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Do not start a video call"; ObjectID = "15"; */
+"15.ibShadowedToolTip" = "Do not start a video call";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Return to the video call"; ObjectID = "17"; */
+"17.ibShadowedToolTip" = "Return to the video call";
+
+/* Class = "NSButtonCell"; title = "Resume"; ObjectID = "18"; */
+"18.title" = "Resume";
+
+/* Class = "NSButton"; ibShadowedToolTip = "End video call"; ObjectID = "21"; */
+"21.ibShadowedToolTip" = "End video call";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Put video call on hold"; ObjectID = "25"; */
+"25.ibShadowedToolTip" = "Put video call on hold";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Click to mute"; ObjectID = "27"; */
+"27.ibShadowedToolTip" = "Click to mute";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Enter full screen"; ObjectID = "79"; */
+"79.ibShadowedToolTip" = "Enter full screen";

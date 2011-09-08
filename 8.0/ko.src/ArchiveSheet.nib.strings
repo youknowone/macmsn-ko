@@ -1,0 +1,40 @@
+
+/* Class = "NSButton"; ibShadowedToolTip = "Click to close the Save Active Conversation On Close dialog box without saving changes."; ObjectID = "7"; */
+"7.ibShadowedToolTip" = "바뀐 설정을 저장하지 않고 현재 대화 저장 창을 닫으려면 누르세요.";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "8"; */
+"8.title" = "취소";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Click to close the Save Active Conversation On Close dialog box and save changes."; ObjectID = "9"; */
+"9.ibShadowedToolTip" = "바뀐 설정을 저장하고 현재 대화 저장 창을 닫으려면 누르세요.";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "10"; */
+"10.title" = "확인";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Click to open the Preferences dialog box and edit your preferences."; ObjectID = "12"; */
+"12.ibShadowedToolTip" = "환경설정을 열고 설정을 수정하려면 누르세요.";
+
+/* Class = "NSButtonCell"; title = "Save Preferences..."; ObjectID = "13"; */
+"13.title" = "환경설정 저장...";
+
+/* Class = "NSTextFieldCell"; title = "Save Active Conversation on Close"; ObjectID = "24"; */
+"24.title" = "닫을 때 현재 대화 저장";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Select this check box to save your conversation to your Conversation History folder."; ObjectID = "32"; */
+"32.ibShadowedToolTip" = "대화를 대화 기록 폴더에 저장하려면 이 항목을 선택하세요.";
+
+/* Class = "NSButtonCell"; title = "Save this conversation in Conversation History"; ObjectID = "33"; */
+"33.title" = "대화 기록에 이 대화를 저장하기";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "Choose this option if you want Microsoft Messenger to prompt you to save your conversation when you close the conversation window."; ObjectID = "35"; */
+"35.ibShadowedToolTip" = "대화 창을 닫을 때마다 Microsoft Messenger가 대화를 저장할 지 물어보게 하려면 선택하세요.";
+
+/* Class = "NSButtonCell"; title = "Ask me to save when I close this conversation window"; ObjectID = "35"; */
+"35.title" = "대화 창을 닫을 때마다 나에게 물어보기";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "Choose this option to have Microsoft Messenger automatically save your conversation to the Conversation History when you close the window."; ObjectID = "36"; */
+"36.ibShadowedToolTip" = "대화 창을 닫을 때 Microsoft Messenger가 자동으로 대화를 저장하게 하려면 선택하세요.";
+
+/* Class = "NSButtonCell"; title = "Save this conversation automatically without asking"; ObjectID = "36"; */
+"36.title" = "묻지 않고 대화를 저장하기";
+

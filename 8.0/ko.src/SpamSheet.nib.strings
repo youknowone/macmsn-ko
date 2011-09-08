@@ -1,0 +1,24 @@
+
+/* Class = "NSView"; ibShadowedToolTip = "owl=NO"; ObjectID = "2"; */
+"2.ibShadowedToolTip" = "owl=NO";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Click here for more information about spam messages"; ObjectID = "5"; */
+"5.ibShadowedToolTip" = "스팸 대화에 대해 더 알아보려면 누르세요";
+
+/* Class = "NSButtonCell"; title = "More Information"; ObjectID = "6"; */
+"6.title" = "더 보기";
+
+/* Class = "NSButtonCell"; title = "Decline"; ObjectID = "8"; */
+"8.title" = "거절";
+
+/* Class = "NSButtonCell"; title = "Accept"; ObjectID = "10"; */
+"10.title" = "수락";
+
+/* Class = "NSButtonCell"; title = "Preferences"; ObjectID = "13"; */
+"13.title" = "환경설정";
+
+/* Class = "NSTextFieldCell"; title = "Do you want to accept a message from an unknown sender?"; ObjectID = "24"; */
+"24.title" = "모르는 사람에게서 온 대화를 받으시겠습니까?";
+
+/* Class = "NSTextFieldCell"; title = "To change settings for unknown senders, click Preferences."; ObjectID = "30"; */
+"30.title" = "모르는 사람에게서 온 대화에 대한 설정을 바꾸려면 환경설정을 누르세요.";

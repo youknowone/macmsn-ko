@@ -1,0 +1,388 @@
+
+/* Class = "NSMenuItem"; title = "View"; ObjectID = "367"; */
+"367.title" = "보기";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "368"; */
+"368.title" = "파일";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "369"; */
+"369.title" = "편집";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "370"; */
+"370.title" = "도움말";
+
+/* Class = "NSMenuItem"; title = "Messenger"; ObjectID = "371"; */
+"371.title" = "Messenger";
+
+/* Class = "NSMenu"; title = "Messenger"; ObjectID = "378"; */
+"378.title" = "Messenger";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "379"; */
+"379.title" = "기타 가리기";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "381"; */
+"381.title" = "서비스";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "384"; */
+"384.title" = "환경설정…";
+
+/* Class = "NSMenuItem"; title = "Quit #SHORTNAME"; ObjectID = "386"; */
+"386.title" = "#SHORTNAME 종료";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "387"; */
+"387.title" = "모두 보기";
+
+/* Class = "NSMenuItem"; title = "Hide #SHORTNAME"; ObjectID = "388"; */
+"388.title" = "#SHORTNAME 가리기";
+
+/* Class = "NSMenuItem"; title = "About #SHORTNAME…"; ObjectID = "389"; */
+"389.title" = "#SHORTNAME 에 관하여…";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "390"; */
+"390.title" = "서비스";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "391"; */
+"391.title" = "도움말";
+
+/* Class = "NSMenuItem"; title = "#SHORTNAME Help"; ObjectID = "392"; */
+"392.title" = "#SHORTNAME 도움말";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "393"; */
+"393.title" = "편집";
+
+/* Class = "NSMenuItem"; title = "Spelling"; ObjectID = "396"; */
+"396.title" = "영문 철자";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "400"; */
+"400.title" = "베껴두기;
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "401"; */
+"401.title" = "붙이기";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "402"; */
+"402.title" = "오려두기";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "404"; */
+"404.title" = "취소";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "405"; */
+"405.title" = "전체 선택";
+
+/* Class = "NSMenuItem"; title = "Clear"; ObjectID = "406"; */
+"406.title" = "삭제";
+
+/* Class = "NSMenu"; title = "Spelling"; ObjectID = "413"; */
+"413.title" = "영문 철자";
+
+/* Class = "NSMenuItem"; title = "Spelling…"; ObjectID = "415"; */
+"415.title" = "영문 철자…";
+
+/* Class = "NSMenuItem"; title = "Check Spelling as You Type"; ObjectID = "417"; */
+"417.title" = "입력하는 동안에 영문 철자 검사";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "425"; */
+"425.title" = "파일";
+
+/* Class = "NSMenuItem"; title = "Import Contacts from a Saved File…"; ObjectID = "427"; */
+"427.title" = "저장된 파일에서 대화 상대 가져오기…";
+
+/* Class = "NSMenuItem"; title = "Save Contact List…"; ObjectID = "436"; */
+"436.title" = "대화 상대 목록 저장…";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "439"; */
+"439.title" = "보기";
+
+/* Class = "NSMenuItem"; title = "Contact List"; ObjectID = "441"; */
+"441.title" = "대화 상대 목록";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "446"; */
+"446.title" = "닫기";
+
+/* Class = "NSMenuItem"; title = "Save"; ObjectID = "447"; */
+"447.title" = "저장";
+
+/* Class = "NSMenuItem"; title = "Save as Web Page…"; ObjectID = "448"; */
+"448.title" = "웹 문서로 저장…";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "#MSGRONLY"; ObjectID = "450"; */
+"450.ibShadowedToolTip" = "#MSGRONLY";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "#MSGRONLY"; ObjectID = "451"; */
+"451.ibShadowedToolTip" = "#MSGRONLY";
+
+/* Class = "NSMenuItem"; title = "Emoticons…"; ObjectID = "451"; */
+"451.title" = "이모티콘…";
+
+/* Class = "NSMenuItem"; title = "Conversation History"; ObjectID = "454"; */
+"454.title" = "대화 기록";
+
+/* Class = "NSMenuItem"; title = "Search"; ObjectID = "457"; */
+"457.title" = "찾기";
+
+/* Class = "NSMenuItem"; title = "Show Message Time Stamp"; ObjectID = "460"; */
+"460.title" = "대화 시각 보기";
+
+/* Class = "NSMenuItem"; title = "Toolbar"; ObjectID = "470"; */
+"470.title" = "도구막대";
+
+/* Class = "NSMenu"; title = "Toolbar"; ObjectID = "471"; */
+"471.title" = "도구막대";
+
+/* Class = "NSMenuItem"; title = "Icon & Text"; ObjectID = "472"; */
+"472.title" = "아이콘 & 텍스트";
+
+/* Class = "NSMenuItem"; title = "Icon Only"; ObjectID = "473"; */
+"473.title" = "아이콘만";
+
+/* Class = "NSMenuItem"; title = "Text Only"; ObjectID = "474"; */
+"474.title" = "텍스트만";
+
+/* Class = "NSMenuItem"; title = "Hide"; ObjectID = "475"; */
+"475.title" = "가리기";
+
+/* Class = "NSMenuItem"; title = "Customize…"; ObjectID = "476"; */
+"476.title" = "개인화…";
+
+/* Class = "NSMenuItem"; title = "Message Text Size"; ObjectID = "486"; */
+"486.title" = "Message Text Size";
+
+/* Class = "NSMenu"; title = "Message Text Size"; ObjectID = "487"; */
+"487.title" = "Message Text Size";
+
+/* Class = "NSMenuItem"; title = "Largest"; ObjectID = "488"; */
+"488.title" = "최대";
+
+/* Class = "NSMenuItem"; title = "Larger"; ObjectID = "489"; */
+"489.title" = "크게";
+
+/* Class = "NSMenuItem"; title = "Medium"; ObjectID = "490"; */
+"490.title" = "보통";
+
+/* Class = "NSMenuItem"; title = "Smaller"; ObjectID = "491"; */
+"491.title" = "작게";
+
+/* Class = "NSMenuItem"; title = "Smallest"; ObjectID = "492"; */
+"492.title" = "최소";
+
+/* Class = "NSMenuItem"; title = "Network"; ObjectID = "496"; */
+"496.title" = "네트워크";
+
+/* Class = "NSMenu"; title = "Network"; ObjectID = "497"; */
+"497.title" = "네트워크";
+
+/* Class = "NSMenuItem"; title = "My Alerts"; ObjectID = "499"; */
+"499.title" = "내 알림";
+
+/* Class = "NSMenuItem"; title = "My Status"; ObjectID = "503"; */
+"503.title" = "내 상태";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "#MSGRONLY"; ObjectID = "507"; */
+"507.ibShadowedToolTip" = "#MSGRONLY";
+
+/* Class = "NSMenuItem"; title = "Windows Live Hotmail"; ObjectID = "507"; */
+"507.title" = "Windows Live Hotmail";
+
+/* Class = "NSMenuItem"; title = "Cancel Sign-in"; ObjectID = "509"; */
+"509.title" = "접속 취소";
+
+/* Class = "NSMenuItem"; title = "Sign In…"; ObjectID = "510"; */
+"510.title" = "접속하기…";
+
+/* Class = "NSMenu"; title = "My Status"; ObjectID = "511"; */
+"511.title" = "내 상태";
+
+/* Class = "NSMenu"; title = "My Alerts"; ObjectID = "519"; */
+"519.title" = "내 알림";
+
+/* Class = "NSMenuItem"; title = "Contact"; ObjectID = "525"; */
+"525.title" = "대화 상대";
+
+/* Class = "NSMenu"; title = "Contact"; ObjectID = "526"; */
+"526.title" = "대화 상대";
+
+/* Class = "NSMenuItem"; title = "Block"; ObjectID = "531"; */
+"531.title" = "차단";
+
+/* Class = "NSMenuItem"; title = "Delete Contact"; ObjectID = "535"; */
+"535.title" = "대화 상대 삭제";
+
+/* Class = "NSMenuItem"; title = "Add a Contact…"; ObjectID = "536"; */
+"536.title" = "대화 상대 추가…";
+
+/* Class = "NSMenuItem"; title = "Send Mail…"; ObjectID = "537"; */
+"537.title" = "메일 보내기…";
+
+/* Class = "NSMenuItem"; title = "Group Offline Contacts Together"; ObjectID = "539"; */
+"539.title" = "오프라인 대화 상대 모아 보기";
+
+/* Class = "NSMenu"; title = "Block"; ObjectID = "541"; */
+"541.title" = "차단";
+
+/* Class = "NSMenuItem"; title = "Available"; ObjectID = "616"; */
+"616.title" = "대화 가능";
+
+/* Class = "NSMenuItem"; title = "Busy"; ObjectID = "617"; */
+"617.title" = "다른 용무 중";
+
+/* Class = "NSMenuItem"; title = "Do Not Disturb"; ObjectID = "618"; */
+"618.title" = "Do Not Disturb";
+
+/* Class = "NSMenuItem"; title = "Be Right Back"; ObjectID = "619"; */
+"619.title" = "곧 돌아옴";
+
+/* Class = "NSMenuItem"; title = "Away"; ObjectID = "620"; */
+"620.title" = "자리 비움";
+
+/* Class = "NSMenuItem"; title = "Appear Offline"; ObjectID = "623"; */
+"623.title" = "오프라인으로 표시";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "#MSGRONLY"; ObjectID = "629"; */
+"629.ibShadowedToolTip" = "#MSGRONLY";
+
+/* Class = "NSMenuItem"; title = "MSN Home"; ObjectID = "629"; */
+"629.title" = "MSN Home";
+
+/* Class = "NSMenuItem"; title = "Sort Contacts by"; ObjectID = "631"; */
+"631.title" = "대화 상대 정렬 기준";
+
+/* Class = "NSMenu"; title = "Sort Contacts by"; ObjectID = "632"; */
+"632.title" = "대화 상대 정렬 기준";
+
+/* Class = "NSMenuItem"; title = "Groups"; ObjectID = "633"; */
+"633.title" = "그룹";
+
+/* Class = "NSMenuItem"; title = "Online/Offline"; ObjectID = "634"; */
+"634.title" = "온라인/오프라인";
+
+/* Class = "NSMenuItem"; title = "Send Instant Message"; ObjectID = "635"; */
+"635.title" = "대화 보내기";
+
+/* Class = "NSMenu"; title = "Send Instant Message"; ObjectID = "636"; */
+"636.title" = "대화 보내기";
+
+/* Class = "NSMenuItem"; title = "Other…"; ObjectID = "637"; */
+"637.title" = "기타…";
+
+/* Class = "NSMenuItem"; title = "Call a Contact"; ObjectID = "638"; */
+"638.title" = "Call a Contact";
+
+/* Class = "NSMenu"; title = "Call a Contact"; ObjectID = "639"; */
+"639.title" = "Call a Contact";
+
+/* Class = "NSMenuItem"; title = "Start Video Call"; ObjectID = "641"; */
+"641.title" = "화상 대화 시작";
+
+/* Class = "NSMenu"; title = "Start Video Call"; ObjectID = "642"; */
+"642.title" = "화상 대화 시작";
+
+/* Class = "NSMenuItem"; title = "Other…"; ObjectID = "643"; */
+"643.title" = "기타…";
+
+/* Class = "NSMenuItem"; title = "Send File"; ObjectID = "644"; */
+"644.title" = "파일 보내기";
+
+/* Class = "NSMenu"; title = "Send File"; ObjectID = "645"; */
+"645.title" = "파일 보내기";
+
+/* Class = "NSMenuItem"; title = "Other…"; ObjectID = "646"; */
+"646.title" = "기타…";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "#MSGRONLY"; ObjectID = "647"; */
+"647.ibShadowedToolTip" = "#MSGRONLY";
+
+/* Class = "NSMenuItem"; title = "Send a Message to a Mobile Device"; ObjectID = "647"; */
+"647.title" = "휴대 기기로 대화 보내기";
+
+/* Class = "NSMenu"; title = "Send a Message to a Mobile Device"; ObjectID = "648"; */
+"648.title" = "휴대 기기로 대화 보내기";
+
+/* Class = "NSMenuItem"; title = "Other…"; ObjectID = "650"; */
+"650.title" = "기타…";
+
+/* Class = "NSMenuItem"; title = "View Profile…"; ObjectID = "653"; */
+"653.title" = "프로필 보기…";
+
+/* Class = "NSMenuItem"; title = "Add a Group"; ObjectID = "656"; */
+"656.title" = "그룹 더하기";
+
+/* Class = "NSMenuItem"; title = "Delete Group"; ObjectID = "657"; */
+"657.title" = "그룹 지우기";
+
+/* Class = "NSMenuItem"; title = "Rename Group"; ObjectID = "658"; */
+"658.title" = "기룹 이름 바꾸기";
+
+/* Class = "NSMenuItem"; title = "Privacy…"; ObjectID = "660"; */
+"660.title" = "Privacy…";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "#MSGRONLY"; ObjectID = "661"; */
+"661.ibShadowedToolTip" = "#MSGRONLY";
+
+/* Class = "NSMenuItem"; title = "Windows Live Messenger Service Status"; ObjectID = "661"; */
+"661.title" = "Windows Live Messenger Service Status";
+
+/* Class = "NSMenuItem"; title = "Visit the Product Web Site"; ObjectID = "662"; */
+"662.title" = "제품 웹세이트 방문";
+
+/* Class = "NSMenuItem"; title = "Send Feedback about #SHORTNAME"; ObjectID = "663"; */
+"663.title" = "Send Feedback about #SHORTNAME";
+
+/* Class = "NSMenuItem"; title = "Privacy Statement"; ObjectID = "664"; */
+"664.title" = "Privacy Statement";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "695"; */
+"695.title" = "윈도우";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "696"; */
+"696.title" = "윈도우";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "697"; */
+"697.title" = "윈도우 축소";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "698"; */
+"698.title" = "확대/축소";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "700"; */
+"700.title" = "모두 앞으로 가져오기";
+
+/* Class = "NSMenu"; title = "Dock"; ObjectID = "783"; */
+"783.title" = "Dock";
+
+/* Class = "NSMenuItem"; title = "Sign out"; ObjectID = "788"; */
+"788.title" = "접속 끊기";
+
+/* Class = "NSMenuItem"; title = "Sign in"; ObjectID = "790"; */
+"790.title" = "접속하기";
+
+/* Class = "NSMenuItem"; title = "My Status"; ObjectID = "802"; */
+"802.title" = "내 상태";
+
+/* Class = "NSMenu"; title = "My Status"; ObjectID = "803"; */
+"803.title" = "내 상태";
+
+/* Class = "NSMenuItem"; title = "Appear Offline"; ObjectID = "806"; */
+"806.title" = "오프라인으로 표시";
+
+/* Class = "NSMenuItem"; title = "Away"; ObjectID = "809"; */
+"809.title" = "자리 비움";
+
+/* Class = "NSMenuItem"; title = "Be Right Back"; ObjectID = "810"; */
+"810.title" = "곧 돌아옴";
+
+/* Class = "NSMenuItem"; title = "Do Not Disturb"; ObjectID = "811"; */
+"811.title" = "Do Not Disturb";
+
+/* Class = "NSMenuItem"; title = "Busy"; ObjectID = "812"; */
+"812.title" = "다른 용무중";
+
+/* Class = "NSMenuItem"; title = "Available"; ObjectID = "813"; */
+"813.title" = "대화 가능";
+
+/* Class = "NSMenuItem"; title = "View Contact List"; ObjectID = "837"; */
+"837.title" = "대화 상대 보기";
+
+/* Class = "NSMenuItem"; title = "Print…"; ObjectID = "873"; */
+"873.title" = "프린트…";
+
+/* Class = "NSMenuItem"; title = "Check for Updates"; ObjectID = "879"; */
+"879.title" = "업데이트 확인";
+

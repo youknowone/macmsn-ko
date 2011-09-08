@@ -1,0 +1,390 @@
+
+/* Class = "NSMenu"; title = "AMainMenu"; ObjectID = "365"; */
+"365.title" = "AMainMenu";
+
+/* Class = "NSMenuItem"; title = "View"; ObjectID = "367"; */
+"367.title" = "View";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "368"; */
+"368.title" = "File";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "369"; */
+"369.title" = "Edit";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "370"; */
+"370.title" = "Help";
+
+/* Class = "NSMenuItem"; title = "Messenger"; ObjectID = "371"; */
+"371.title" = "Messenger";
+
+/* Class = "NSMenu"; title = "Messenger"; ObjectID = "378"; */
+"378.title" = "Messenger";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "379"; */
+"379.title" = "Hide Others";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "381"; */
+"381.title" = "Services";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "384"; */
+"384.title" = "Preferences…";
+
+/* Class = "NSMenuItem"; title = "Quit #SHORTNAME"; ObjectID = "386"; */
+"386.title" = "Quit #SHORTNAME";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "387"; */
+"387.title" = "Show All";
+
+/* Class = "NSMenuItem"; title = "Hide #SHORTNAME"; ObjectID = "388"; */
+"388.title" = "Hide #SHORTNAME";
+
+/* Class = "NSMenuItem"; title = "About #SHORTNAME…"; ObjectID = "389"; */
+"389.title" = "About #SHORTNAME…";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "390"; */
+"390.title" = "Services";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "391"; */
+"391.title" = "Help";
+
+/* Class = "NSMenuItem"; title = "#SHORTNAME Help"; ObjectID = "392"; */
+"392.title" = "#SHORTNAME Help";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "393"; */
+"393.title" = "Edit";
+
+/* Class = "NSMenuItem"; title = "Spelling"; ObjectID = "396"; */
+"396.title" = "Spelling";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "400"; */
+"400.title" = "Copy";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "401"; */
+"401.title" = "Paste";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "402"; */
+"402.title" = "Cut";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "404"; */
+"404.title" = "Undo";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "405"; */
+"405.title" = "Select All";
+
+/* Class = "NSMenuItem"; title = "Clear"; ObjectID = "406"; */
+"406.title" = "Clear";
+
+/* Class = "NSMenu"; title = "Spelling"; ObjectID = "413"; */
+"413.title" = "Spelling";
+
+/* Class = "NSMenuItem"; title = "Spelling…"; ObjectID = "415"; */
+"415.title" = "Spelling…";
+
+/* Class = "NSMenuItem"; title = "Check Spelling as You Type"; ObjectID = "417"; */
+"417.title" = "Check Spelling as You Type";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "425"; */
+"425.title" = "File";
+
+/* Class = "NSMenuItem"; title = "Import Contacts from a Saved File…"; ObjectID = "427"; */
+"427.title" = "Import Contacts from a Saved File…";
+
+/* Class = "NSMenuItem"; title = "Save Contact List…"; ObjectID = "436"; */
+"436.title" = "Save Contact List…";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "439"; */
+"439.title" = "View";
+
+/* Class = "NSMenuItem"; title = "Contact List"; ObjectID = "441"; */
+"441.title" = "Contact List";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "446"; */
+"446.title" = "Close";
+
+/* Class = "NSMenuItem"; title = "Save"; ObjectID = "447"; */
+"447.title" = "Save";
+
+/* Class = "NSMenuItem"; title = "Save as Web Page…"; ObjectID = "448"; */
+"448.title" = "Save as Web Page…";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "#MSGRONLY"; ObjectID = "450"; */
+"450.ibShadowedToolTip" = "#MSGRONLY";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "#MSGRONLY"; ObjectID = "451"; */
+"451.ibShadowedToolTip" = "#MSGRONLY";
+
+/* Class = "NSMenuItem"; title = "Emoticons…"; ObjectID = "451"; */
+"451.title" = "Emoticons…";
+
+/* Class = "NSMenuItem"; title = "Conversation History"; ObjectID = "454"; */
+"454.title" = "Conversation History";
+
+/* Class = "NSMenuItem"; title = "Search"; ObjectID = "457"; */
+"457.title" = "Search";
+
+/* Class = "NSMenuItem"; title = "Show Message Time Stamp"; ObjectID = "460"; */
+"460.title" = "Show Message Time Stamp";
+
+/* Class = "NSMenuItem"; title = "Toolbar"; ObjectID = "470"; */
+"470.title" = "Toolbar";
+
+/* Class = "NSMenu"; title = "Toolbar"; ObjectID = "471"; */
+"471.title" = "Toolbar";
+
+/* Class = "NSMenuItem"; title = "Icon & Text"; ObjectID = "472"; */
+"472.title" = "Icon & Text";
+
+/* Class = "NSMenuItem"; title = "Icon Only"; ObjectID = "473"; */
+"473.title" = "Icon Only";
+
+/* Class = "NSMenuItem"; title = "Text Only"; ObjectID = "474"; */
+"474.title" = "Text Only";
+
+/* Class = "NSMenuItem"; title = "Hide"; ObjectID = "475"; */
+"475.title" = "Hide";
+
+/* Class = "NSMenuItem"; title = "Customize…"; ObjectID = "476"; */
+"476.title" = "Customize…";
+
+/* Class = "NSMenuItem"; title = "Message Text Size"; ObjectID = "486"; */
+"486.title" = "Message Text Size";
+
+/* Class = "NSMenu"; title = "Message Text Size"; ObjectID = "487"; */
+"487.title" = "Message Text Size";
+
+/* Class = "NSMenuItem"; title = "Largest"; ObjectID = "488"; */
+"488.title" = "Largest";
+
+/* Class = "NSMenuItem"; title = "Larger"; ObjectID = "489"; */
+"489.title" = "Larger";
+
+/* Class = "NSMenuItem"; title = "Medium"; ObjectID = "490"; */
+"490.title" = "Medium";
+
+/* Class = "NSMenuItem"; title = "Smaller"; ObjectID = "491"; */
+"491.title" = "Smaller";
+
+/* Class = "NSMenuItem"; title = "Smallest"; ObjectID = "492"; */
+"492.title" = "Smallest";
+
+/* Class = "NSMenuItem"; title = "Network"; ObjectID = "496"; */
+"496.title" = "Network";
+
+/* Class = "NSMenu"; title = "Network"; ObjectID = "497"; */
+"497.title" = "Network";
+
+/* Class = "NSMenuItem"; title = "My Alerts"; ObjectID = "499"; */
+"499.title" = "My Alerts";
+
+/* Class = "NSMenuItem"; title = "My Status"; ObjectID = "503"; */
+"503.title" = "My Status";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "#MSGRONLY"; ObjectID = "507"; */
+"507.ibShadowedToolTip" = "#MSGRONLY";
+
+/* Class = "NSMenuItem"; title = "Windows Live Hotmail"; ObjectID = "507"; */
+"507.title" = "Windows Live Hotmail";
+
+/* Class = "NSMenuItem"; title = "Cancel Sign-in"; ObjectID = "509"; */
+"509.title" = "Cancel Sign-in";
+
+/* Class = "NSMenuItem"; title = "Sign In…"; ObjectID = "510"; */
+"510.title" = "Sign In…";
+
+/* Class = "NSMenu"; title = "My Status"; ObjectID = "511"; */
+"511.title" = "My Status";
+
+/* Class = "NSMenu"; title = "My Alerts"; ObjectID = "519"; */
+"519.title" = "My Alerts";
+
+/* Class = "NSMenuItem"; title = "Contact"; ObjectID = "525"; */
+"525.title" = "Contact";
+
+/* Class = "NSMenu"; title = "Contact"; ObjectID = "526"; */
+"526.title" = "Contact";
+
+/* Class = "NSMenuItem"; title = "Block"; ObjectID = "531"; */
+"531.title" = "Block";
+
+/* Class = "NSMenuItem"; title = "Delete Contact"; ObjectID = "535"; */
+"535.title" = "Delete Contact";
+
+/* Class = "NSMenuItem"; title = "Add a Contact…"; ObjectID = "536"; */
+"536.title" = "Add a Contact…";
+
+/* Class = "NSMenuItem"; title = "Send Mail…"; ObjectID = "537"; */
+"537.title" = "Send Mail…";
+
+/* Class = "NSMenuItem"; title = "Group Offline Contacts Together"; ObjectID = "539"; */
+"539.title" = "Group Offline Contacts Together";
+
+/* Class = "NSMenu"; title = "Block"; ObjectID = "541"; */
+"541.title" = "Block";
+
+/* Class = "NSMenuItem"; title = "Available"; ObjectID = "616"; */
+"616.title" = "Available";
+
+/* Class = "NSMenuItem"; title = "Busy"; ObjectID = "617"; */
+"617.title" = "Busy";
+
+/* Class = "NSMenuItem"; title = "Do Not Disturb"; ObjectID = "618"; */
+"618.title" = "Do Not Disturb";
+
+/* Class = "NSMenuItem"; title = "Be Right Back"; ObjectID = "619"; */
+"619.title" = "Be Right Back";
+
+/* Class = "NSMenuItem"; title = "Away"; ObjectID = "620"; */
+"620.title" = "Away";
+
+/* Class = "NSMenuItem"; title = "Appear Offline"; ObjectID = "623"; */
+"623.title" = "Appear Offline";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "#MSGRONLY"; ObjectID = "629"; */
+"629.ibShadowedToolTip" = "#MSGRONLY";
+
+/* Class = "NSMenuItem"; title = "MSN Home"; ObjectID = "629"; */
+"629.title" = "MSN Home";
+
+/* Class = "NSMenuItem"; title = "Sort Contacts by"; ObjectID = "631"; */
+"631.title" = "Sort Contacts by";
+
+/* Class = "NSMenu"; title = "Sort Contacts by"; ObjectID = "632"; */
+"632.title" = "Sort Contacts by";
+
+/* Class = "NSMenuItem"; title = "Groups"; ObjectID = "633"; */
+"633.title" = "Groups";
+
+/* Class = "NSMenuItem"; title = "Online/Offline"; ObjectID = "634"; */
+"634.title" = "Online/Offline";
+
+/* Class = "NSMenuItem"; title = "Send Instant Message"; ObjectID = "635"; */
+"635.title" = "Send Instant Message";
+
+/* Class = "NSMenu"; title = "Send Instant Message"; ObjectID = "636"; */
+"636.title" = "Send Instant Message";
+
+/* Class = "NSMenuItem"; title = "Other…"; ObjectID = "637"; */
+"637.title" = "Other…";
+
+/* Class = "NSMenuItem"; title = "Call a Contact"; ObjectID = "638"; */
+"638.title" = "Call a Contact";
+
+/* Class = "NSMenu"; title = "Call a Contact"; ObjectID = "639"; */
+"639.title" = "Call a Contact";
+
+/* Class = "NSMenuItem"; title = "Start Video Call"; ObjectID = "641"; */
+"641.title" = "Start Video Call";
+
+/* Class = "NSMenu"; title = "Start Video Call"; ObjectID = "642"; */
+"642.title" = "Start Video Call";
+
+/* Class = "NSMenuItem"; title = "Other…"; ObjectID = "643"; */
+"643.title" = "Other…";
+
+/* Class = "NSMenuItem"; title = "Send File"; ObjectID = "644"; */
+"644.title" = "Send File";
+
+/* Class = "NSMenu"; title = "Send File"; ObjectID = "645"; */
+"645.title" = "Send File";
+
+/* Class = "NSMenuItem"; title = "Other…"; ObjectID = "646"; */
+"646.title" = "Other…";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "#MSGRONLY"; ObjectID = "647"; */
+"647.ibShadowedToolTip" = "#MSGRONLY";
+
+/* Class = "NSMenuItem"; title = "Send a Message to a Mobile Device"; ObjectID = "647"; */
+"647.title" = "Send a Message to a Mobile Device";
+
+/* Class = "NSMenu"; title = "Send a Message to a Mobile Device"; ObjectID = "648"; */
+"648.title" = "Send a Message to a Mobile Device";
+
+/* Class = "NSMenuItem"; title = "Other…"; ObjectID = "650"; */
+"650.title" = "Other…";
+
+/* Class = "NSMenuItem"; title = "View Profile…"; ObjectID = "653"; */
+"653.title" = "View Profile…";
+
+/* Class = "NSMenuItem"; title = "Add a Group"; ObjectID = "656"; */
+"656.title" = "Add a Group";
+
+/* Class = "NSMenuItem"; title = "Delete Group"; ObjectID = "657"; */
+"657.title" = "Delete Group";
+
+/* Class = "NSMenuItem"; title = "Rename Group"; ObjectID = "658"; */
+"658.title" = "Rename Group";
+
+/* Class = "NSMenuItem"; title = "Privacy…"; ObjectID = "660"; */
+"660.title" = "Privacy…";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "#MSGRONLY"; ObjectID = "661"; */
+"661.ibShadowedToolTip" = "#MSGRONLY";
+
+/* Class = "NSMenuItem"; title = "Windows Live Messenger Service Status"; ObjectID = "661"; */
+"661.title" = "Windows Live Messenger Service Status";
+
+/* Class = "NSMenuItem"; title = "Visit the Product Web Site"; ObjectID = "662"; */
+"662.title" = "Visit the Product Web Site";
+
+/* Class = "NSMenuItem"; title = "Send Feedback about #SHORTNAME"; ObjectID = "663"; */
+"663.title" = "Send Feedback about #SHORTNAME";
+
+/* Class = "NSMenuItem"; title = "Privacy Statement"; ObjectID = "664"; */
+"664.title" = "Privacy Statement";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "695"; */
+"695.title" = "Window";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "696"; */
+"696.title" = "Window";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "697"; */
+"697.title" = "Minimize";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "698"; */
+"698.title" = "Zoom";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "700"; */
+"700.title" = "Bring All to Front";
+
+/* Class = "NSMenu"; title = "Dock"; ObjectID = "783"; */
+"783.title" = "Dock";
+
+/* Class = "NSMenuItem"; title = "Sign out"; ObjectID = "788"; */
+"788.title" = "Sign out";
+
+/* Class = "NSMenuItem"; title = "Sign in"; ObjectID = "790"; */
+"790.title" = "Sign in";
+
+/* Class = "NSMenuItem"; title = "My Status"; ObjectID = "802"; */
+"802.title" = "My Status";
+
+/* Class = "NSMenu"; title = "My Status"; ObjectID = "803"; */
+"803.title" = "My Status";
+
+/* Class = "NSMenuItem"; title = "Appear Offline"; ObjectID = "806"; */
+"806.title" = "Appear Offline";
+
+/* Class = "NSMenuItem"; title = "Away"; ObjectID = "809"; */
+"809.title" = "Away";
+
+/* Class = "NSMenuItem"; title = "Be Right Back"; ObjectID = "810"; */
+"810.title" = "Be Right Back";
+
+/* Class = "NSMenuItem"; title = "Do Not Disturb"; ObjectID = "811"; */
+"811.title" = "Do Not Disturb";
+
+/* Class = "NSMenuItem"; title = "Busy"; ObjectID = "812"; */
+"812.title" = "Busy";
+
+/* Class = "NSMenuItem"; title = "Available"; ObjectID = "813"; */
+"813.title" = "Available";
+
+/* Class = "NSMenuItem"; title = "View Contact List"; ObjectID = "837"; */
+"837.title" = "View Contact List";
+
+/* Class = "NSMenuItem"; title = "Print…"; ObjectID = "873"; */
+"873.title" = "Print…";
+
+/* Class = "NSMenuItem"; title = "Check for Updates"; ObjectID = "879"; */
+"879.title" = "Check for Updates";

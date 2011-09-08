@@ -1,0 +1,39 @@
+
+/* Class = "NSWindow"; title = "Conversation History"; ObjectID = "1"; */
+"1.title" = "대화 기록";
+
+/* Class = "NSToolbarItem"; label = "Search"; ObjectID = "15"; */
+"15.label" = "찾기";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Search"; ObjectID = "15"; */
+"15.paletteLabel" = "찾기";
+
+/* Class = "NSTableColumn"; headerCell.title = "Date"; ObjectID = "43"; */
+"43.headerCell.title" = "날짜";
+
+/* Class = "NSTableColumn"; headerCell.title = "To"; ObjectID = "44"; */
+"44.headerCell.title" = "대화 상대";
+
+/* Class = "NSToolbarItem"; label = "Delete"; ObjectID = "48"; */
+"48.label" = "지우기";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Delete"; ObjectID = "48"; */
+"48.paletteLabel" = "지우기";
+
+/* Class = "NSToolbarItem"; toolTip = "Delete the currently highlighted instant message"; ObjectID = "48"; */
+"48.toolTip" = "지금 강조되어 있는 대화를 지웁니다";
+
+/* Class = "NSToolbarItem"; label = "Save as Web Page"; ObjectID = "50"; */
+"50.label" = "웹 문서로 저장";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Save as Web Page"; ObjectID = "50"; */
+"50.paletteLabel" = "웹 문서로 저장";
+
+/* Class = "NSToolbarItem"; toolTip = "Save the currently highlighted instant message as an HTML document"; ObjectID = "50"; */
+"50.toolTip" = "지금 강조되어 있는 대화를 HTML 문서로 저장합니다";
+
+/* Class = "NSTableColumn"; headerCell.title = "Size"; ObjectID = "60"; */
+"60.headerCell.title" = "Size";
+
+/* Class = "NSButtonCell"; title = "Check"; ObjectID = "120"; */
+"120.title" = "Check";

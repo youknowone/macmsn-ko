@@ -1,0 +1,30 @@
+
+/* Class = "NSPanel"; title = "Window"; ObjectID = "1"; */
+"1.title" = "Window";
+
+/* Class = "NSView"; ibShadowedToolTip = "owl=NO"; ObjectID = "2"; */
+"2.ibShadowedToolTip" = "owl=NO";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Click here for more information about spam messages"; ObjectID = "5"; */
+"5.ibShadowedToolTip" = "Click here for more information about spam messages";
+
+/* Class = "NSButtonCell"; title = "More Information"; ObjectID = "6"; */
+"6.title" = "More Information";
+
+/* Class = "NSButtonCell"; title = "Decline"; ObjectID = "8"; */
+"8.title" = "Decline";
+
+/* Class = "NSButtonCell"; title = "Accept"; ObjectID = "10"; */
+"10.title" = "Accept";
+
+/* Class = "NSButtonCell"; title = "Preferences"; ObjectID = "13"; */
+"13.title" = "Preferences";
+
+/* Class = "NSTextFieldCell"; title = "Do you want to accept a message from an unknown sender?"; ObjectID = "24"; */
+"24.title" = "Do you want to accept a message from an unknown sender?";
+
+/* Class = "NSTextFieldCell"; title = "Multiline Label\nMultiline Label"; ObjectID = "26"; */
+"26.title" = "Multiline Label\nMultiline Label";
+
+/* Class = "NSTextFieldCell"; title = "To change settings for unknown senders, click Preferences."; ObjectID = "30"; */
+"30.title" = "To change settings for unknown senders, click Preferences.";

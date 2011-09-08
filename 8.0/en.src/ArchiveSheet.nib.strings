@@ -1,0 +1,45 @@
+
+/* Class = "NSPanel"; title = "Window"; ObjectID = "1"; */
+"1.title" = "Window";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Click to close the Save Active Conversation On Close dialog box without saving changes."; ObjectID = "7"; */
+"7.ibShadowedToolTip" = "Click to close the Save Active Conversation On Close dialog box without saving changes.";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "8"; */
+"8.title" = "Cancel";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Click to close the Save Active Conversation On Close dialog box and save changes."; ObjectID = "9"; */
+"9.ibShadowedToolTip" = "Click to close the Save Active Conversation On Close dialog box and save changes.";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "10"; */
+"10.title" = "OK";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Click to open the Preferences dialog box and edit your preferences."; ObjectID = "12"; */
+"12.ibShadowedToolTip" = "Click to open the Preferences dialog box and edit your preferences.";
+
+/* Class = "NSButtonCell"; title = "Save Preferences..."; ObjectID = "13"; */
+"13.title" = "Save Preferences...";
+
+/* Class = "NSTextFieldCell"; title = "Save Active Conversation on Close"; ObjectID = "24"; */
+"24.title" = "Save Active Conversation on Close";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Select this check box to save your conversation to your Conversation History folder."; ObjectID = "32"; */
+"32.ibShadowedToolTip" = "Select this check box to save your conversation to your Conversation History folder.";
+
+/* Class = "NSButtonCell"; title = "Save this conversation in Conversation History"; ObjectID = "33"; */
+"33.title" = "Save this conversation in Conversation History";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "Choose this option if you want Microsoft Messenger to prompt you to save your conversation when you close the conversation window."; ObjectID = "35"; */
+"35.ibShadowedToolTip" = "Choose this option if you want Microsoft Messenger to prompt you to save your conversation when you close the conversation window.";
+
+/* Class = "NSButtonCell"; title = "Ask me to save when I close this conversation window"; ObjectID = "35"; */
+"35.title" = "Ask me to save when I close this conversation window";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "Choose this option to have Microsoft Messenger automatically save your conversation to the Conversation History when you close the window."; ObjectID = "36"; */
+"36.ibShadowedToolTip" = "Choose this option to have Microsoft Messenger automatically save your conversation to the Conversation History when you close the window.";
+
+/* Class = "NSButtonCell"; title = "Save this conversation automatically without asking"; ObjectID = "36"; */
+"36.title" = "Save this conversation automatically without asking";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "37"; */
+"37.title" = "Radio";

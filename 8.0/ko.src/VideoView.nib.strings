@@ -1,0 +1,30 @@
+
+/* Class = "NSTextFieldCell"; title = "Calling..."; ObjectID = "6"; */
+"6.title" = "Calling...";
+
+/* Class = "NSTextFieldCell"; title = "On hold..."; ObjectID = "10"; */
+"10.title" = "On hold...";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Start a video call"; ObjectID = "13"; */
+"13.ibShadowedToolTip" = "화상 대화를 시작합니다";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Do not start a video call"; ObjectID = "15"; */
+"15.ibShadowedToolTip" = "화상 대화를 시작하지 않습니다";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Return to the video call"; ObjectID = "17"; */
+"17.ibShadowedToolTip" = "화상 대화로 돌아갑니다";
+
+/* Class = "NSButtonCell"; title = "Resume"; ObjectID = "18"; */
+"18.title" = "다시 시작";
+
+/* Class = "NSButton"; ibShadowedToolTip = "End video call"; ObjectID = "21"; */
+"21.ibShadowedToolTip" = "화상 대화를 끝냅니다";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Put video call on hold"; ObjectID = "25"; */
+"25.ibShadowedToolTip" = "Put video call on hold";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Click to mute"; ObjectID = "27"; */
+"27.ibShadowedToolTip" = "소리를 끄려면 누릅니다";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Enter full screen"; ObjectID = "79"; */
+"79.ibShadowedToolTip" = "전체 화면을 사용합니다";
